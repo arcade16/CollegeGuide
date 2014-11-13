@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CollegeGuide</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinner_prompt">Select a resource:</string>
+
+    <string-array name="spinner_array">
+        <item>List of Boston Sights:</item>
+        <item>Back Bay</item>
+        <item>Freedom Trail</item>
+        <item>Skyzone</item>
+        <item>USS Constitution</item>
+        <item>Union Oyster House</item>
+    </string-array>
+</resources>
